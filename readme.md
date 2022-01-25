@@ -1,4 +1,4 @@
-# End-to-end speech synthesis with use of architecture of FastSpeech 2
+# [End-to-end speech synthesis with use of architecture of FastSpeech 2](https://github.com/hvkat/Hv_demo/blob/main/full%20notebook/Diploma_Project_speech_synthesis_v_git.ipynb)
 ## General note
 This is the presentation of the project made initially as diploma project in Warsaw University of Technology, postgraduate course on Deep Neural Networks.
 The architectures used are [FastSpeech 2](https://arxiv.org/abs/2006.04558) and [HiFi-GAN](https://arxiv.org/pdf/2010.05646.pdf) as vocoder.
