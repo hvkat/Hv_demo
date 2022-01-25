@@ -1,0 +1,45 @@
+>>> fastspeech2-architecture.jpg
+
+Figure 3.1. The overall architecture for FastSpeech 2 and 2s. LR in subfigure (b) denotes the length regulator operation proposed in FastSpeech. LN in subfigure (c) denotes layer normalization. Variance predictor represents duration/pitch/energy predictor.
+
+[Y. Ren, C. Hu, X. Tan, et al., *FastSpeech 2: Fast and High-Quality End-to-End
+Text-to-Speech*](https://arxiv.org/abs/2006.04558)
+
+--------------------------------------------------------------------------------
+
+>>> hifigan1.jpg
+
+Figure 3.2. HiFi-GAN generator
+
+Jaehyeon, and B. Jaekyoun, *HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis*](https://arxiv.org/pdf/2010.05646.pdf)
+
+--------------------------------------------------------------------------------
+
+>>> hifigan2.jpg
+
+Figure 3.3. HiFi-GAN discriminator. a) Second sub-discriminator of Multi Scale Discriminator (MSD). b) Second discriminator od Multi Period Discriminator (MPD).
+
+[K. Jungil, K. Jaehyeon, and B. Jaekyoun, *HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis*](https://arxiv.org/pdf/2010.05646.pdf)
+
+--------------------------------------------------------------------------------
+
+>>> table-mos.png
+
+Table 1.1. The MOS with 95% confidence intervals
+
+[Y. Ren, C. Hu, X. Tan, et al., *FastSpeech 2: Fast and High-Quality End-to-End
+Text-to-Speech*](https://arxiv.org/abs/2006.04558)
+
+--------------------------------------------------------------------------------
+
+>>> taxonomy.png
+
+Figure 1.1. A taxonomy of neural TTS from the perspectives of key components and data flows.
+
+[X. Tan, T. Qin, F. Soong, and T.-Y. Li, *Survey on Neural Speech Synthesis*](https://arxiv.org/pdf/2106.15561.pdf)
+
+
+
+
+
+
