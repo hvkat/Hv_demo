@@ -1,5 +1,5 @@
-#End-to-end speech synthesis with use of architecture of FastSpeech 2
-##General note
+# End-to-end speech synthesis with use of architecture of FastSpeech 2
+## General note
 This is the presentation of the project made initially as diploma project in Warsaw University of Technology, postgraduate course on Deep Neural Networks.
 The architectures used are [FastSpeech 2](https://arxiv.org/abs/2006.04558) and [HiFi-GAN](https://arxiv.org/pdf/2010.05646.pdf) as vocoder.
 Main focus was on results.
@@ -12,17 +12,17 @@ Audio samples are presented in separate [Audio Samples Notebook](https://colab.r
 
 *Hello again. I am synthesized and generally cool.*
 
-##Implementation
+## Implementation
 Implementatios was based on [ming024's FastSpeech 2 - PyTorch Implementation](https://github.com/ming024/FastSpeech2).
 
 
-##Dataset
+##  Dataset
 Own dataset was used, created from scratch and with parameters based on [LJ Speech dataset](https://keithito.com/LJ-Speech-Dataset/).
 
-#Abstract
+# Abstract
 In this thesis, artificial neural networks based end-to-end speech synthesis was presented with use of FastSpeech2 architecture. First, in introduction general problem of speech synthesis is introduced, followed by descriptions of dataset and architectures used. Next parts contain information about implementation of the model, and the results are presented and discussed. Last part summarizes the thesis with possible plans for future.
 
-#References
+# References
 [X. Tan, T. Qin, F. Soong, and T.-Y. Li, *Survey on Neural Speech Synthesis*](https://arxiv.org/pdf/2106.15561.pdf)
 
 [K. Ito and L. Johnson, *The LJ Speech Dataset*](https://keithito.com/LJ-Speech-Dataset/)
